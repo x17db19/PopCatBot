@@ -1,4 +1,4 @@
-# PopClicker
+# PopBot
 This is a hacktool for popcat (WORK IN PROGRESS)
 
 
