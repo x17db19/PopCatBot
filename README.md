@@ -11,4 +11,4 @@ DONT EXIT THE BROWSER WHILE THE PROGRAM IS RUNNING IT WILL CAUSE ALOT OF PROBLEM
 
 
 q: why did i add pop limit at 2550 pops?
-a: its because your computer whould overheat because of the amount of input given a the same time
+                                                                                                                                                                        a: its because your computer whould overheat because of the amount of input given a the same time
