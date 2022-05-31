@@ -1,4 +1,4 @@
-# PopBot
+# Popcatbot
 This is a hacktool for popcat (WORK IN PROGRESS)
 
 give the program a little bit time to activate
